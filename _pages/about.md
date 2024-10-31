@@ -13,6 +13,6 @@ My research interest lies in the intersection of computer science and management
 
 I am fortunate to be advised by [Prof. Cheng Gui](https://xueshu.baidu.com/scholarID/CN-B7HA4JDK), the Dean of the School of Finance, and [Prof. Lu Haiyan](https://a.xueshu.baidu.com/scholarID/CN-BEG838KK), the Dean of the School of Accounting.
 
-You can find my CV here: [Shuhe Zhu's Curriculum Vitae](../assets/Curriculum Vitae.pdf).
+You can find my CV here: [Shuhe Zhu's Curriculum Vitae](../assets/shuhe cv.pdf).
 
 [Email](mailto:zhushuhe0224@gmail.com) / [GitHub](https://github.com/zhucharlotte) / ![WeChat](../images/wechat.jpg)
