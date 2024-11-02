@@ -8,11 +8,11 @@ main:
   - title: "Personal Information"
     url: /Personal Information/
 
-  - title: "Research"
-    url: /Research/    
+  - title: "Talks"
+    url: /talks/    
 
-  - title: "Project Experience"
-    url: /Project/    
+  - title: "Teaching"
+    url: /Teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
