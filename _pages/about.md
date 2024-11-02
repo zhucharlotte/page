@@ -15,4 +15,4 @@ I am fortunate to be advised by [Prof. Cheng Gui](https://xueshu.baidu.com/schol
 
 You can find my CV here: [Shuhe Zhu's Curriculum Vitae](../assets/shuhe_cv.pdf).
 
-[Email](mailto:zhushuhe0224@gmail.com) / [GitHub](https://github.com/zhucharlotte) / ![WeChat](../images/wechat.jpg)
+[Email](mailto:zhushuhe0224@gmail.com) / [GitHub](https://github.com/zhucharlotte) / ![WeChat](../images/wechat.png)
