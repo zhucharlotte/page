@@ -24,6 +24,7 @@ redirect_from:
       <li><strong>Website:</strong> <a href="https://zhucharlotte.github.io/page/" style="color: #FFD700;">https://zhucharlotte.github.io/page/</a></li>
     </ul>
   </div> 
+    <img src="../images/zhushuhe.jpg" alt="Your Image Description" style="max-width: 105px; height: auto;">
   </div>
 
 ### <span style="font-size: 27px; font-family: Times New Roman;">Self-evaluation</span>
