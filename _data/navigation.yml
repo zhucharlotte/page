@@ -8,17 +8,17 @@ main:
   - title: "Personal Information"
     url: /Personal Information/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /Research/    
 
-  - title: "Teaching"
-    url: /Teaching/    
+  - title: "Project"
+    url: /Project/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Awards"
+    url: /Awards/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Social Contributions"
+    url: /Social Contributions/
     
   - title: "CV"
     url: /cv/
