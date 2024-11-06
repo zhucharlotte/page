@@ -25,7 +25,6 @@ redirect_from:
     </ul>
   </div> 
   
-  </div>
 
 ### <span style="font-size: 27px; font-family: Times New Roman;">Self-evaluation</span>
 * <span style="font-family: Georgia;">Third-year master's student in auditing.</span>
@@ -34,7 +33,6 @@ redirect_from:
 * <span style="font-family: Georgia;">Strong learning ability and a passion for research.</span>
 * <span style="font-family: Georgia;">Proficient in using Python, Stata, and other tools for big data modeling and statistical analysis.</span>
 * <span style="font-family: Georgia;">Strong communication skills, outgoing and optimistic.</span>
-</p>
 
 ---
 
