@@ -39,12 +39,12 @@ redirect_from:
 ## <span style="font-size: 24px; font-family: Times New Roman;">Educational experience</span>
 
 <span style="font-size: 20px;color: #007BFF; font-family: Georgia;">Bachelor's degree</span>
-**<span style="font-family: Georgia;">Wuxi Taihu University</span>**<span style="font-family: Georgia;"> (2017.09—2021.06)</span><br>
+**<span style="font-family: Georgia;">Wuxi Taihu University</span>**<span style="font-family: Georgia;"> (Sept 2017 – Jun 2021)</span><br>
 * <span style="font-family: Georgia;">Major: Accounting (ACCA)</span><br>
 * <span style="font-family: Georgia;">GPA: 83.4/100</span><br>
 
 <span style="font-size: 20px;color: #007BFF; font-family: Georgia;">Master's degree</span>
-**<span style="font-family: Georgia;">Lanzhou University of Finance and Economics</span>** <span style="font-family: Georgia;">(2022.09—)</span><br>
+**<span style="font-family: Georgia;">Lanzhou University of Finance and Economics</span>** <span style="font-family: Georgia;">(Sept 2022 – Present)</span><br>
 * <span style="font-family: Georgia;">Major: Auditing</span><br>
 * <span style="font-family: Georgia;">GPA: 84.9/100</span>
 
