@@ -20,7 +20,7 @@ redirect_from:
       <li><strong>Birth:</strong> 24/02/99</li>
       <li><strong>Hometown:</strong> <em>Nanjing, Jiangsu, China</em></li>
       <li><strong>Phone:</strong> <span style="color: #FFD700;">(+86) 132-2201-2760</span></li>
-      <li><strong>Email:</strong> <span style="color: #FFD700;">Zhushuhe0224@gmail.com</span></li>
+      <li><strong>Email:</strong> <span style="color: #FFD700;">zhushuhe0224@gmail.com</span></li>
       <li><strong>Website:</strong> <a href="https://zhucharlotte.github.io/page/" style="color: #FFD700;">https://zhucharlotte.github.io/page/</a></li>
     </ul>
   </div> 
