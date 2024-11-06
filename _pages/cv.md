@@ -66,7 +66,6 @@ redirect_from:
 * **<span style="font-family: Georgia;">UI design</span>**、**<span style="font-family: Georgia;">Adobe Audition</span>**
 
 
-
 ---
 
 ## <span style="font-size: 24px; font-family: Times New Roman;">Research  experience and Honor</span>
