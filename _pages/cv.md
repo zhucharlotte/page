@@ -24,7 +24,7 @@ redirect_from:
       <li><strong>Website:</strong> <a href="https://zhucharlotte.github.io/page/" style="color: #FFD700;">https://zhucharlotte.github.io/page/</a></li>
     </ul>
   </div> 
-  
+  </div>
 
 ### <span style="font-size: 27px; font-family: Times New Roman;">Self-evaluation</span>
 * <span style="font-family: Georgia;">Third-year master's student in auditing.</span>
@@ -64,6 +64,7 @@ redirect_from:
 * **<span style="font-family: Georgia;">SPSS</span>**、**<span style="font-family: Georgia;">Stata</span>**、**<span style="font-family: Georgia;">SQL</span>**
 * **<span style="font-family: Georgia;">Photoshop</span>**、**<span style="font-family: Georgia;">Adobe Illustrator</span>**、**<span style="font-family: Georgia;">Origin</span>**、**<span style="font-family: Georgia;">PPT</span>**、**<span style="font-family: Georgia;">ArcGIS</span>**
 * **<span style="font-family: Georgia;">UI design</span>**、**<span style="font-family: Georgia;">Adobe Audition</span>**
+
 
 
 ---
