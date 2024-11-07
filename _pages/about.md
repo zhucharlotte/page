@@ -11,6 +11,6 @@ I'm a third year graduate student from [Lanzhou University of Finance and Econom
 
 My research interest lies in the intersection of computer science and management, focusing on applying machine learning, neural networks, and network analysis to solve problems in accounting, auditing, and finance.
 
-I am fortunate to be advised by [Prof. Cheng Gui](https://xueshu.baidu.com/scholarID/CN-B7HA4JDK), the Dean of the School of Finance, and [Prof. Lu Haiyan](https://a.xueshu.baidu.com/scholarID/CN-BEG838KK), the Dean of the School of Accounting.
+I am fortunate to be advised by [Prof. Gui Cheng](https://xueshu.baidu.com/scholarID/CN-B7HA4JDK), the Dean of the School of Finance, and [Prof. Haiyan Lu](https://a.xueshu.baidu.com/scholarID/CN-BEG838KK), the Dean of the School of Accounting.
 
 I'm currently applying for a PhD.
