@@ -73,7 +73,7 @@ redirect_from:
 * **<span style="font-family: Georgia;">Data Processing and Modeling</span>:**<span style="font-family: Georgia;">Python</span>,<span style="font-family: Georgia;">Matlab</span>
 * **<span style="font-family: Georgia;">Statistical Analysis:</span>**<span style="font-family: Georgia;">SPSS</span>,<span style="font-family: Georgia;">Stata</span>
 * **<span style="font-family: Georgia;">Database</span>:**<span style="font-family: Georgia;">SQL</span>
-* **<span style="font-family: Georgia;">Database</span>:**<span style="font-family: Georgia;">Photoshop</span>,<span style="font-family: Georgia;">Adobe Illustrator</span>,<span style="font-family: Georgia;">Origin</span>,<span style="font-family: Georgia;">ArcGIS</span>
+* **<span style="font-family: Georgia;">Visualization</span>:**<span style="font-family: Georgia;">Photoshop</span>,<span style="font-family: Georgia;">Adobe Illustrator</span>,<span style="font-family: Georgia;">Origin</span>,<span style="font-family: Georgia;">ArcGIS</span>
 * **<span style="font-family: Georgia;">Other</span>:**<span style="font-family: Georgia;">UI design</span>,<span style="font-family: Georgia;">Adobe Audition</span>
 
 ---
