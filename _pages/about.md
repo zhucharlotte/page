@@ -14,3 +14,5 @@ My research interest lies in the intersection of computer science and management
 I am fortunate to be advised by [Prof. Gui Cheng](https://xueshu.baidu.com/scholarID/CN-B7HA4JDK), the Dean of the School of Finance, and [Prof. Haiyan Lu](https://a.xueshu.baidu.com/scholarID/CN-BEG838KK), the Dean of the School of Accounting.
 
 I'm currently applying for a PhD.
+
+More information about me can be found on the following webpage.
