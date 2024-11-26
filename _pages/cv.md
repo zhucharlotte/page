@@ -50,23 +50,23 @@ redirect_from:
 ---
 
 ## <span style="font-size: 24px;font-family: Times New Roman;">Research Progress</span>
-- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Carbon_Emissions.html" style="color: #0066cc">Research on the Impact of Corporate Digital Transformation on Carbon Emissions</a></b></span></h2>
-   <p><em><span style="font-size: 10px">Accepted by the Journal of Wuhan Business University(ISSN2095-7955)</em></p>
-- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/CNN.html"  style="color: #0066cc">Research on a Financial Fraud Identification Model by Fusing a Convolutional Neural Network</a></b></span></h2>
-  <p><em><span style="font-size: 10px">Revised by PLOS ONE</a> (IF:2.9)</em></p>
-- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Networks.html" style="color: #0066cc">Shareholder Relationship Networks, Information Advantages, and Corporate Digital Transformation</a></b></span></h2>
-   <p><em><span style="font-size: 10px">Being submitted to Humanities and Social Sciences Communications</a>(IF:3.7)</em></p>
+- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Carbon_Emissions.html" style="color: #0066cc">Research on the Impact of Corporate Digital Transformation on Carbon Emissions</a></b></span>
+   <p><em><span style="font-size: 10px">Accepted by the Journal of Wuhan Business University(ISSN2095-7955)
+- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/CNN.html"  style="color: #0066cc">Research on a Financial Fraud Identification Model by Fusing a Convolutional Neural Network</a></b></span>
+  <p><em><span style="font-size: 10px">Revised by PLOS ONE</a> (IF:2.9)
+- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Networks.html" style="color: #0066cc">Shareholder Relationship Networks, Information Advantages, and Corporate Digital Transformation</a></b></span>
+   <p><em><span style="font-size: 10px">Being submitted to Humanities and Social Sciences Communications</a>(IF:3.7)
   
-- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Green_Agricultural.html" style="color: #0066cc">Assessment of the Effectiveness and Impact of Green Agricultural Policies: A Quantitative Analysis Based on Policy Texts from China (2017–2023)</a></b></span></h2>
-   <p><em><span style="font-size: 10px">Being submitted to Scientific Reports</a>(IF:3.8)</em></p>
-- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Photovoltaic.html" style="color: #0066cc">Assessment of the Effectiveness and Impact of Photovoltaic Industry Policies: A Quantitative Analysis Based on Policy Texts from China (2005–2023)</a></b></span></h2>
-   <p><em><span style="font-size: 10px">Being submitted to Sustainability</a>(IF:3.3) </em></p>
-- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/XGBoost.html" style="color: #0066cc">Construction of a Disease Prediction Model Based on the XGBoost Model</a></b></span></h2>
-   <p><em><span style="font-size: 10px">Course paper</em></p> 
-- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/LightGBM.html" style="color: #0066cc">The Application of  Media Coverage in Financial fraud warning—Based on Bayesian Optimized LightGBM Model Construction and Empirical Research</a></b></span></h2>
-   <p><em><span style="font-size: 10px">Ongoing</em></p>
-- <span style="font-size: 15px;font-family: Georgia;"><b>The Carbon Emission Trading Price Prediction Model for China Based on MAIN-transform-KAN</b></span></h2>
-   <p><em><span style="font-size: 10px">Ongoing</em></p>
+- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Green_Agricultural.html" style="color: #0066cc">Assessment of the Effectiveness and Impact of Green Agricultural Policies: A Quantitative Analysis Based on Policy Texts from China (2017–2023)</a></b></span>
+   <p><em><span style="font-size: 10px">Being submitted to Scientific Reports</a>(IF:3.8)
+- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Photovoltaic.html" style="color: #0066cc">Assessment of the Effectiveness and Impact of Photovoltaic Industry Policies: A Quantitative Analysis Based on Policy Texts from China (2005–2023)</a></b></span>
+   <p><em><span style="font-size: 10px">Being submitted to Sustainability</a>(IF:3.3)
+- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/XGBoost.html" style="color: #0066cc">Construction of a Disease Prediction Model Based on the XGBoost Model</a></b></span>
+   <p><em><span style="font-size: 10px">Course paper
+- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/LightGBM.html" style="color: #0066cc">The Application of  Media Coverage in Financial fraud warning—Based on Bayesian Optimized LightGBM Model Construction and Empirical Research</a></b></span>
+   <p><em><span style="font-size: 10px">Ongoing
+- <span style="font-size: 15px;font-family: Georgia;"><b>The Carbon Emission Trading Price Prediction Model for China Based on MAIN-transform-KAN</b></span>
+   <p><em><span style="font-size: 10px">Ongoing
 
 ---
 ## <span style="font-size: 24px; font-family: Times New Roman;">Skills</span>
