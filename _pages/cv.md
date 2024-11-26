@@ -57,7 +57,7 @@ redirect_from:
 - <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Networks.html" style="color: #0066cc">Shareholder Relationship Networks, Information Advantages, and Corporate Digital Transformation</a></b></span>
    <p><em><span style="font-size: 15px">Being submitted to Humanities and Social Sciences Communications(IF:3.7)
   
-- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Green_Agricultural.html" style="color: #0066cc">Assessment of the Effectiveness and Impact of Green Agricultural Policies: A Quantitative Analysis Based on Policy Texts from China (2017–2023)</a></b></span>
+- <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Green_Agricultural.html" style="color: #0066cc">Evaluation of Effectiveness and Impact of Green Agricultural Policies — A Quantitative Analysis Based on China's Policy Texts (2017–2022)</a></b></span>
    <p><em><span style="font-size: 15px">Being submitted to Scientific Reports(IF:3.8)
 - <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Photovoltaic.html" style="color: #0066cc">Assessment of the Effectiveness and Impact of Photovoltaic Industry Policies: A Quantitative Analysis Based on Policy Texts from China (2005–2023)</a></b></span>
    <p><em><span style="font-size: 15px">Being submitted to Sustainability(IF:3.3)
