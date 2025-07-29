@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from [Lanzhou University of Finance and Economics](https://www.lzufe.edu.cn/index.htm), [School of Accounting](https://www.lzufe.edu.cn/index.htm). My major is Auditing.
+I'm a postgraduate student from [Lanzhou University of Finance and Economics](https://www.lzufe.edu.cn/index.htm), [School of Accounting](https://www.lzufe.edu.cn/index.htm). My major is Auditing.
 
 My research interest lies in the intersection of computer science and management, focusing on applying machine learning, neural networks, and network analysis to solve problems in accounting, auditing, and finance.
 I have previously integrated convolutional neural networks to build a prediction model for financial fraud, and have used machine learning models for disease prediction. Currently, I am working on building machine learning models incorporating textual features and developing a China carbon emissions trading price prediction model based on MAIN-transform-KAN.
