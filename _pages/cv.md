@@ -34,7 +34,7 @@ redirect_from:
 * <span style="font-family: Georgia;">GPA: 83.4/100 (top5%)<a href="https://zhucharlotte.github.io/page//files/WG.pdf" style="color: #0066cc">(Transcript)</a></span><br>
 
 <span style="font-size: 20px;color: #007BFF; font-family: Georgia;">Master's degree</span>
-**<span style="font-family: Georgia;">Lanzhou University of Finance and Economics</span>** <span style="font-family: Georgia;">(Sept 2022 – Present)</span><br>
+**<span style="font-family: Georgia;">Lanzhou University of Finance and Economics</span>** <span style="font-family: Georgia;">(Sept 2022 – Jun 2025)</span><br>
 * <span style="font-family: Georgia;">Major: Auditing</span><br>
 * <span style="font-family: Georgia;">GPA: 84.9/100 (top5%)<a href="https://zhucharlotte.github.io/page//files/LG.pdf" style="color: #0066cc">(Transcript)</a></span>
 
