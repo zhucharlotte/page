@@ -38,6 +38,10 @@ redirect_from:
 * <span style="font-family: Georgia;">Major: Auditing</span><br>
 * <span style="font-family: Georgia;">GPA: 84.9/100 (top5%)<a href="https://zhucharlotte.github.io/page//files/LG.pdf" style="color: #0066cc">(Transcript)</a></span>
 
+<span style="font-size: 20px;color: #007BFF; font-family: Georgia;">Phd</span>
+**<span style="font-family: Georgia;">Universiti Putra Malaysia</span>** <span style="font-family: Georgia;">(OCt 2025 – present)</span><br>
+* <span style="font-family: Georgia;">Major: Economic</span><br>
+* <span style="font-family: Georgia;">GPA: 3.5 <a href="https://zhucharlotte.github.io/page//files/LG.pdf" style="color: #0066cc"></a></span>
 ---
 
 ## <span style="font-size: 24px; font-family:  Times New Roman;">Research topics</span>
@@ -53,7 +57,7 @@ redirect_from:
 - <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Carbon_Emissions.html" style="color: #0066cc">Research on the Impact of Corporate Digital Transformation on Carbon Emissions</a></b></span>
    <p><em><span style="font-size: 15px">Accepted by the Journal of Wuhan Business University(ISSN2095-7955)
 - <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/CNN.html"  style="color: #0066cc">Research on a Financial Fraud Identification Model by Fusing a Convolutional Neural Network</a></b></span>
-  <p><em><span style="font-size: 15px">Revised by PLOS ONE(IF:2.9)
+  <p><em><span style="font-size: 15px"><a href="https://doi.org/10.1371/journal.pone.0348569" style="color: #00008B;">https://doi.org/10.1371/journal.pone.0348569</a></a>(IF:2.9)
 - <span style="font-size: 15px;font-family: Georgia;"><b><a href="https://zhucharlotte.github.io/page//_talks/Networks.html" style="color: #0066cc">Shareholder Relationship Networks, Information Advantages, and Corporate Digital Transformation</a></b></span>
    <p><em><span style="font-size: 15px">Being submitted to Humanities and Social Sciences Communications(IF:3.7)
   
