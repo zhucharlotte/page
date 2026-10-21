@@ -17,9 +17,9 @@ redirect_from:
     <h3 style="font-size: 24px;font-family: Times New Roman;">Personal Information</h3>
     <ul>
       <li><strong>Birth:</strong> 24/02/99</li>
-      <li><strong>Location:</strong> <em>Nanjing, Jiangsu, China</em></li>
-      <li><strong>Phone:</strong> <span style="color: #00008B;">(+86) 132-2201-2760</span></li>
-      <li><strong>Email:</strong> <span style="color: #00008B;">zhushuhe0224@gmail.com</span></li>
+      <li><strong>Location:</strong> <em>Serdang,Selangor, Malaysia</em></li>
+      <li><strong>Phone:</strong> <span style="color: #00008B;">(+60) 178058211</span></li>
+      <li><strong>Email:</strong> <span style="color: #00008B;">gs75887@student.upm.edu.my</span></li>
       <li><strong>Website:</strong> <a href="https://zhucharlotte.github.io/page/" style="color: #00008B;">https://zhucharlotte.github.io/page/</a></li>
     </ul>
   </div> 
