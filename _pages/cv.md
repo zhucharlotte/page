@@ -41,7 +41,7 @@ redirect_from:
 <span style="font-size: 20px;color: #007BFF; font-family: Georgia;">Phd</span>
 **<span style="font-family: Georgia;">Universiti Putra Malaysia</span>** <span style="font-family: Georgia;">(OCt 2025 – present)</span><br>
 * <span style="font-family: Georgia;">Major: Economic</span><br>
-* <span style="font-family: Georgia;">GPA: 3.5 <a href="https://zhucharlotte.github.io/page//files/LG.pdf" style="color: #0066cc"></a></span>
+* <span style="font-family: Georgia;">GPA: 3.5 </span>
 ---
 
 ## <span style="font-size: 24px; font-family:  Times New Roman;">Research topics</span>
